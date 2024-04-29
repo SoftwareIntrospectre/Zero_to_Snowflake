@@ -1,5 +1,6 @@
 # Zero_to_Snowflake
 Learning about how to use Snowflake through the lab "Zero to Snowflake"
+https://quickstarts.snowflake.com/guide/getting_started_with_snowflake/index.html#0
 
 1. Loaded data from an AWS S3 bucket
 2. Created and loaded tables
